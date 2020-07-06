@@ -1,9 +1,52 @@
+
+h1 {
+  color: red;
+  font-size: 200%;
+}
+img{
+    width: 800px;
+    height:500px ;
+    margin-left: 300px;
+}
+  
+p  {
+  color:blue;
+  font-family: "Times New Roman", Times, serif;;
+  font-size: 160%;
+}
 body {
-    background-color: powderblue;
+    background-color:burlywood;
   }
   h1 {
     color: blue;
   }
   p {
-    color: red;
+    color:black;
   }
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+    p {
+    background-color: darkgray;
+  }
+  div{
+    border: 2px;  
+    }
+    ul li{
+        list-style:none;
+float: left;
+margin-left: 40px;
+margin-top: auto;
+margin-right: 40px;
+    }
+    li{
+        border: 2px solid black;
+        background-color: cornflowerblue;
+        padding: 10px;
+        
+
+}
+    
